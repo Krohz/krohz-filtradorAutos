@@ -1,4 +1,4 @@
 # krohz-filtradorAutos
 ## Filtrado de autos(Solo codigo JS)
 
-Pagina para prueba: https://js3-krohz-filtro.netlify.app/
+<a href= " https://js3-krohz-filtro.netlify.app/" target="_blank ">Pagina para prueba</a>
